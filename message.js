@@ -10,7 +10,4 @@ class Message {
       }
    }
 }
-
-//let fox = new Message("elijah",[1,2,3]);
-//console.log(Array.isArray(fox.commands));
 module.exports = Message;

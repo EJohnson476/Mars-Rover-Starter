@@ -88,18 +88,4 @@ class Rover {
 
 }
 
-//let message = new Rover;
-
-//let commands = [new Command('MODE_CHANGE', 'LOW_POWER'), new Command ('STATUS_CHECK'), new Command('MOVE', 9000)];
-//let commands = [new Command ('STATUS_CHECK')];
-//let message = new Message("Message with two commands", commands);
-//let rover = new Rover(98382);
-//let x = new Rover;
-//let y = rover.receiveMessage(message);
-//console.log(rover);
-//console.log(message);
-//console.log(y);
-//console.log(y.results);
-
-
 module.exports = Rover;
